@@ -34,9 +34,9 @@ from config import client_id, client_secret, album_id, access_token, refresh_tok
 app = Flask(__name__)
 
 # Channel Access Token
-line_bot_api = LineBotApi('TpaFBOurwpFFb6FOCmwEgJ+5MpQ5nAusoUOVmLdhPLBZBYQPMaNVMz7WJ915uW0uSzf8sOsW530PFZNR3Vp9TWUVVaYV1BdF6/yzTe5aDUNLRyU+1RHbcAqOg/Q3altZwOEL8kaLGU0eD0FncmVBRwdB04t89/1O/w1cDnyilFU=')
+line_bot_api = LineBotApi('')
 # Channel Secret
-handler = WebhookHandler('aa77169e12e78071bfc9ff1c2535a02a')
+handler = WebhookHandler('')
 
 # Google Sheet Config
 GDriveJSON = 'LineBotSheet.json'
@@ -179,7 +179,7 @@ def handle_image_message(event):
     try:
         date = json.dumps(datetime.datetime.now(), cls=Encoder, indent=4)
         worksheet.append_row((date, class_message))
-        spreadsheet_id = '1csBFk9tCGJ0G2syaLUWoHp_OH9depz919rO5RQ2hSk0'
+        spreadsheet_id = ''
 
         return 0
 
