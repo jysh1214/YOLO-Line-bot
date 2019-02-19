@@ -8,10 +8,10 @@ A simple detecting object line bot by tiny YOLO
 win10
 
 ## Precondition
--python
--Darknet compiled on cygwin64 (or you can just use this exe file)
--your own Line bot
--imgur account
--ngrok
--Maybe connect to your google sheets(?
+- python
+- Darknet compiled on cygwin64 (or you can just use this exe file)
+- your own Line bot
+- imgur account
+- ngrok
+- Maybe connect to your google sheets(?
 
