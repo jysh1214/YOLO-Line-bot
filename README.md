@@ -21,7 +21,11 @@ win10
 
 ## Reference
 [python](https://www.python.org/)
+
 [darknet](https://pjreddie.com/darknet/)
+
 [line message API](https://developers.line.biz/en/docs/messaging-api/overview/)
+
 [imgur](https://imgur.com/)
+
 [ngrok](https://ngrok.com/)
