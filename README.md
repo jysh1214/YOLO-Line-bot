@@ -18,4 +18,4 @@ win10
 ## How to use
 - use ngrok to create your line webhook: https://XXXXXXXX.ngrok.io/callback
 - "python .\app.py" in your win10 power shell
-- sent a image to your line bot and get a detected image
+- sent a image to your line bot and get a marked image
