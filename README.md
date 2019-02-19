@@ -13,9 +13,15 @@ win10
 - your own Line bot
 - imgur account
 - ngrok
-- Maybe connect to your google sheets(?
 
 ## How to use
 - use ngrok to create your line webhook: https://XXXXXXXX.ngrok.io/callback
 - "python .\app.py" in your win10 power shell
 - sent a image to your line bot and get a marked image
+
+## Reference
+![python](https://www.python.org/)
+![darknet](https://pjreddie.com/darknet/)
+![line message API](https://developers.line.biz/en/docs/messaging-api/overview/)
+![imgur](https://imgur.com/)
+![ngrok](https://ngrok.com/)
