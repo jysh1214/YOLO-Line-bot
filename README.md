@@ -7,7 +7,7 @@ A simple detecting object line bot by tiny YOLO
 ## Eviroment
 win10
 
-## Precondition
+## Prerequisites
 - python
 - Darknet compiled on cygwin64 (or you can just use this exe file)
 - your own Line bot
